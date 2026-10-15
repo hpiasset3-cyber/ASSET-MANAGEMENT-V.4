@@ -1,6 +1,6 @@
 {
   "name": "Asset Management - Stock Opname",
-  "short_name": "Asset SO",
+  "short_name": "Asset Management",
   "description": "Aplikasi verifikasi aset, dashboard SO, grafik interaktif, report, dan Manual Book.",
   "id": "./",
   "start_url": "./index.html",
